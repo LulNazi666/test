@@ -1,21 +1,4 @@
-••• IP Tracer •••
-              
-    You can get any one's IP Address Information by giving input their IP.
-    
-   • Paste the input in the input Box. 
-   
-   • Input : 
-    
-        203.39.99.158
-    
-    Example:
-    
-   • Enter Your IP Address : 203.39.99.158
-    
-   • If you did not give any input it will take's IP.
-   
-   • Run it on other compiler for the best experience and remove the break statement if you are using it on any other compiler.
-    
+
 '''
 import urllib.request,urllib.parse,urllib.error
 import ssl,json
